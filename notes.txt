@@ -1,1 +1,11 @@
-#react js challenge: making the slack clone.
+# react js challenge: making the slack clone.
+# start github collaboration/version control
+# git init, 
+# git add ., 
+# git commit -m "message here",
+# git clone https://github.com/staceyloulouse/javascript.git
+# git remote add main https://github.com/staceyloulouse/javascript
+# git push main
+
+#day 1 what do you want to do with this challenge?
+#day 2 react js project starts
